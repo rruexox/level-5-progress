@@ -1,3 +1,3 @@
 <p align="center">
-  <font size="6">Week 1 - Programming Fundamentals with C and Embedded Systems</font>
+  <font size="3">Week 1 - Programming Fundamentals with C and Embedded Systems</font>
 </p>
