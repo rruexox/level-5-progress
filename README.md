@@ -1,1 +1,1 @@
-## Comprehensive codebase and technical projects developed during Level 5 (Embedded Systems Track) of the Digital Egypt Cubs Initiative (DECI).
+Comprehensive codebase and technical projects developed during Level 5 (Embedded Systems Track) of the Digital Egypt Cubs Initiative (DECI).
